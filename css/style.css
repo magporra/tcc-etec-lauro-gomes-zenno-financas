@@ -286,7 +286,8 @@ body {
 
 /* === ARTIGOS === */
 .imagens-artigos {
-  max-height: 69px;
+  height: 300px;
+  width: 413px;
 }
 
 .card {
